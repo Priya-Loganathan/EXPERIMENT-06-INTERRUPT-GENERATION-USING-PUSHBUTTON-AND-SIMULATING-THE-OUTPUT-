@@ -164,7 +164,7 @@ static void MX_GPIO_Init(void)
 ### LED ON
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![Uploading image.png…]()
+
 
  
 ## Result :

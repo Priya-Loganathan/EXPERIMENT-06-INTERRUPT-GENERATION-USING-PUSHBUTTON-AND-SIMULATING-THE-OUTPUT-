@@ -164,7 +164,8 @@ static void MX_GPIO_Init(void)
 ### LED ON
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![Uploading image.png…]()
+
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 

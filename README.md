@@ -155,16 +155,16 @@ static void MX_GPIO_Init(void)
 
   HAL_NVIC_SetPriority(EXTI1_IRQn, 0, 0);
   HAL_NVIC_EnableIRQ(EXTI1_IRQn);
-
 }
 ```
 
 ## Output screen shots of proteus  :
- ![image](https://github.com/Priya-Loganathan/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/121166075/31b1fa54-6b58-4de8-8275-dd486e1c5f6e)
-![image](https://github.com/Priya-Loganathan/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/121166075/c12bb48f-e502-4fa3-ab02-bc2a29df2383)
- 
+### LED OFF
+ ![image](https://github.com/Priya-Loganathan/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/121166075/1a027f69-f071-45b0-b8c1-6c891c2e7f7e)
+### LED ON
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![image](https://github.com/Priya-Loganathan/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/121166075/d0c74e82-35c4-45e4-8dd0-548ae0ad6e8c)
+ 
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 

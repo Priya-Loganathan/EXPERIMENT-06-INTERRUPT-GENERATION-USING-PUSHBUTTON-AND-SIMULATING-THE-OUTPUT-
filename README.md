@@ -162,10 +162,10 @@ static void MX_GPIO_Init(void)
 ### LED OFF
  ![image](https://github.com/Priya-Loganathan/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/121166075/1a027f69-f071-45b0-b8c1-6c891c2e7f7e)
 ### LED ON
+![ex6 pmc led on](https://github.com/Priya-Loganathan/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/121166075/c8a529fe-39c2-4ff2-a50e-50616b7eda67)
 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+![ex6 pmc cd](https://github.com/Priya-Loganathan/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/121166075/cf45fba1-cb31-4b1b-b70a-801f76a60a3b)
 
-
- 
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
